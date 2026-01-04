@@ -32,6 +32,7 @@ Without data-driven insights, retention strategies remain reactive rather than p
 Personally Identifiable Information (PII) was anonymized during data preparation.
 
 ## Week-Wise Project Execution
+<img width="1304" height="723" alt="image" src="https://github.com/user-attachments/assets/73f00470-eebd-4fc3-9d08-6339249f8b26" />
 
 ### Week 1: Data Understanding, Cleaning & Anonymization
 
